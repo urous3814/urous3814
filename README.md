@@ -1,5 +1,6 @@
 UROUS3814
-
-불암고등학교 김지훈의 깃헙
-
-백준: https://www.acmicpc.net/user/urous3814
+------------------
+불암고등학교|김지훈
+=================
+  백준   : acmicpc.net/user/urous3814
+  인스타 : instagram.com/novil3715/
