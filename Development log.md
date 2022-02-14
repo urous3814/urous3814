@@ -1,6 +1,6 @@
-> # 목차
->
-> [2022/02/14(The Coala)](https://github.com/urous3814/urous3814/blob/main/Development%20log.md#20220214)
+ # 목차
+
+ [2022/02/14(The Coala)](https://github.com/urous3814/urous3814/blob/main/Development%20log.md#20220214)
   
 ---
 
@@ -31,6 +31,7 @@
 </div>
 </details>
 
+---
 
 ## 2022/02/14
 
