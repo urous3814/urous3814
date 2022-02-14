@@ -10,7 +10,7 @@
 ---
 
 <details>
-<summary>2022/02/14</summary>
+<summary>양식</summary>
 <div markdown="1">
   
 ---
