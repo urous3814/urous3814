@@ -7,6 +7,9 @@
 
 ### 더 코알라
 
-### 코알라 서버 기능추가
+#### 코알라 서버 기능추가
 
-1. 
+* ListBox2 접속학생 표기방법, 저장방법 변동(id -> id,name / ~~배열에 저장~~ )
+** dwdwdwd
+2. Thread, redis서버 원격 종료(redis/FastAPI 사용) 수단 제작
+3. id, name 값 제대로 저장 안된것들 수정(API, mysql)
