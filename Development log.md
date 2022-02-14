@@ -35,8 +35,6 @@
 
 ### The Coala
 
-```
-
 #### Coala Windows Server
 
  * ListBox2 접속학생 표기방법, 저장방법 변동(id -> id,name / ~~배열에 저장~~ )
@@ -52,8 +50,6 @@
   
  * id, name 값 제대로 저장 안된것들 수정(API, mysql)
    * teacher, teacher_name, teacher_id, Teacher, Teacher_Check 변수 제대로 매칭 안된 값들 수정, 변수 정리 및 통합 필요
-
-```
 
 #### Coala Meeting
   
