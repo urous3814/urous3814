@@ -2,6 +2,6 @@ UROUS3814
 ------------------
   >불암고등학교 김지훈
   >
-  >백준 : https://acmicpc.net/user/urous3814
+  > [개발일지](https://github.com/urous3814/urous3814/blob/main/Development_log.md)
   >
-  >Connect : urous3814@thecoala.io
+  > Connect : urous3814@thecoala.io
