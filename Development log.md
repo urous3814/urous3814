@@ -23,6 +23,8 @@
  * id, name 값 제대로 저장 안된것들 수정(API, mysql)
    * teacher, teacher_name, teacher_id, Teacher, Teacher_Check 변수 제대로 매칭 안된 값들 수정, 변수 정리 및 통합 필요
 
+---
+
 #### Coala Windows Server
   
   * 전체 프로세스 테스트 진행 (Client 24대 사용)
