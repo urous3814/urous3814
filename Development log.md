@@ -61,10 +61,10 @@
   
   * 전체 프로세스 테스트 진행 (Client 24대 사용)
     * Client 비정상 Close(Terminate)시 DB에 Login_Status 변경 안되는 오류 발생
-       *  서버에서 DB Login_Status 변경 기능 도입하기로 결정
+       *  서버에서 DB Login_Status 변경 기능 도입하기로 결정   
     * 서버 원격 접속해제 기능 필요함 
-      * 기능 추가, 테스트 필요
-    * Wifi 강제 종료로 인한 Client 비정상 Disconnect 시 Reconnect 기능에서 오류발생
+      * 기능 추가, 테스트 필요   
+    * Wifi 강제 종료로 인한 Client 비정상 Disconnect 시 Reconnect 기능에서 오류발생   
   * 회의 진행
     * 보완사항
       1. Problem 다중 전송 기능 필요 (구현)
