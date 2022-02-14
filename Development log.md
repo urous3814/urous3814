@@ -1,11 +1,6 @@
-# 개발일지
-
-날짜별 개발 내용을 서술한다.
-02/14부터 기록한다.
-
-  ## 목차
-  
-  [2022/02/14(The Coala)](https://github.com/urous3814/urous3814/blob/main/Development%20log.md#20220214)
+> # 목차
+>
+> [2022/02/14(The Coala)](https://github.com/urous3814/urous3814/blob/main/Development%20log.md#20220214)
   
 ---
 
