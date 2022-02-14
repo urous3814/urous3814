@@ -12,7 +12,6 @@
  * ListBox2 접속학생 표기방법, 저장방법 변동(id -> id,name / ~~배열에 저장~~ )
    * SUNCHUL function 수정
      * name값 받아오는 sql 추가
-     
    * Check_Login function 수정
      * logout시 표기되는 요소 id > name 수정
    * user interface 표기되는 요소 name 으로 수정
