@@ -44,16 +44,13 @@
      * logout시 표기되는 요소 id > name 수정
    * user interface 표기되는 요소 name 으로 수정
   
-  
  * Thread, redis서버 원격 종료(redis/RestAPI 사용) 수단 제작
    * RestAPI 기능 제작
    * Thread 기능추가, 수정필요
   
-  
  * id, name 값 제대로 저장 안된것들 수정(API, mysql)
    * teacher, teacher_name, teacher_id, Teacher, Teacher_Check 변수 제대로 매칭 안된 값들 수정, 변수 정리 및 통합 필요
-
-
+   
 #### Coala Meeting
   
   * 전체 프로세스 테스트 진행 (Client 24대 사용)
