@@ -1,6 +1,6 @@
  # 목차
 
- [2월](https://github.com/urous3814/urous3814/blob/main/Development_log.md#2월)   
+ [2월](https://github.com/urous3814/urous3814/blob/main/Development_log.md#2022%EB%85%84-2%EC%9B%94)   
   
 ---
 
