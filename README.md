@@ -4,4 +4,4 @@ UROUS3814
   >
   > [개발일지](https://github.com/urous3814/urous3814/blob/main/Development_log.md)
   >
-  > Connect : urous3814@thecoala.io
+  > Contact : urous3814@thecoala.io
