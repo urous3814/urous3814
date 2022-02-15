@@ -1,7 +1,7 @@
  # 목차
 
- [2022/02/14(The Coala)](https://github.com/urous3814/urous3814/blob/main/Development%20log.md#20220214)
- [2022/02/15(The Coala)](https://github.com/urous3814/urous3814/blob/main/Development%20log.md#20220215)
+ [2022/02/14(The Coala)](https://github.com/urous3814/urous3814/blob/main/Development_log.md#20220214)   
+ [2022/02/15(The Coala)](https://github.com/urous3814/urous3814/blob/main/Development_log.md#20220215)
   
 ---
 
