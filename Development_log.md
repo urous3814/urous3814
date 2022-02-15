@@ -1,6 +1,7 @@
  # 목차
 
  [2022/02/14(The Coala)](https://github.com/urous3814/urous3814/blob/main/Development%20log.md#20220214)
+ [2022/02/15(The Coala)](https://github.com/urous3814/urous3814/blob/main/Development%20log.md#20220215)
   
 ---
 
@@ -12,7 +13,7 @@
 
 ## 날짜
 
-### 프로젝트명
+### [프로젝트명](프로젝트 레포 링크)
 
 #### 프로그램명
   
@@ -68,5 +69,37 @@
  
  ---
   
+<details>
+<summary>2022/02/15</summary>
+<div markdown="1">  
+  
+ ---
+
+## 2022/02/15
+
+### [The Coala](https://github.com/urous3814/TheCoala_Dev/tree/main/02/15)
+
+#### Coala Windows Server
+  
+  * Coala Server 원격 종료 수단 제작
+    * key: ID_Tcheck / value: Logout 을 redis에서 수신해 원격 종료
+      * Thread에 id_Tcheck 값들 받아와 Logout이면 ServerLogout() function 수행   
+        CodeSubmit이면 CodeSubmitClick function 수행
+      * Server의 Form1->Close function 수행 시 프로세스에 Server가 남아있는 버그 발생
+        * 현재 Form10 Show로 대체함
+   * Login_Check function 에서 Logout한 User Name 표기 오류 해결
+
+#### Coala Meating
+  
+  * 회의 진행
+    * Coala Client 디자인 변경 필요
+      * Client의 Answer Panel을 위에서 왼쪽으로 옮기기
+      * Client의 Compile, SendCode 버튼 중앙으로 옮기기(미정)
+    * Coala API 사용시 key: ID_Tcheck의 value에 요청 사항(CodeSubmit, Logout)을 넣어서 보내기
+  
+</div>
+</details>
+
+---
   
 
