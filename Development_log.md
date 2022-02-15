@@ -27,10 +27,10 @@
     * 주요 내용
       * 결과 및 보충내용
   
-# 2 
- 
 </div>
 </details>
+
+# 2월
 
 <details>
 <summary>2022/02/14</summary>
