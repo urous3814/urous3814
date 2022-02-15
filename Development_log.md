@@ -30,6 +30,10 @@
 </div>
 </details>
 
+<details>
+<summary>2022/02/15</summary>
+<div markdown="1">  
+ 
 ---
 
 ## 2022/02/14
@@ -68,6 +72,9 @@
       3. API 강희쌤ver로 변경 필요 **(미구현)**
  
  ---
+ 
+</div>
+</details>
   
 <details>
 <summary>2022/02/15</summary>
@@ -96,7 +103,9 @@
       * Client의 Answer Panel을 위에서 왼쪽으로 옮기기
       * Client의 Compile, SendCode 버튼 중앙으로 옮기기(미정)
     * Coala API 사용시 key: ID_Tcheck의 value에 요청 사항(CodeSubmit, Logout)을 넣어서 보내기
-  
+ 
+ ---
+ 
 </div>
 </details>
 
