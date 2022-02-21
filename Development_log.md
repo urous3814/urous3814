@@ -123,11 +123,11 @@
 
 ### [The Coala](https://github.com/urous3814/TheCoala_Dev/tree/main/02/21)
 
-#### 프로그램명
+#### The Coala Server
   
-  * 주요변경사항(보충설명)
-    * 하위 변경사항
-      * 하위 변경사항 설명
+  * 모든 API 사용부 Try Catch로 변경(API)
+    * 정답처리 부분 Try Catch처리
+      * 정답처리시 먼저 id_Scheck 보내놓고 처리
 
 #### 회의
   
