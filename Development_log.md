@@ -130,6 +130,9 @@
       * 정답처리시 먼저 id_Scheck 보내놓고 처리
         * 기능 구현 완료, 테스트 필요
   * Server FormClose시 학생 DB에서 Logout처리 안됨.
+    * Substr 범위 잘못되어있었음
+    * Application->Terminate() 가 DB Logout 처리 되기 전에 실행되어 처리중 나가짐
+      * Disconnect에서 처리하게 변경
 
 #### 회의
   
