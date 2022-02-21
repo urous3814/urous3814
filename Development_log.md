@@ -132,7 +132,10 @@
   * Server FormClose시 학생 DB에서 Logout처리 안됨.
     * Substr 범위 잘못되어있었음
     * Application->Terminate() 가 DB Logout 처리 되기 전에 실행되어 처리중 나가짐
-      * Disconnect에서 처리하게 변경
+      * ~~Disconnect~~ formclose 에서 처리하게 변경
+        * 취소
+    * DBLogout이 rmDelete가 아니라 rmPost로 처리되고있었음
+      * 해결
 
 #### 회의
   
