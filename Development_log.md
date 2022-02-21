@@ -39,7 +39,7 @@
  
 -----------------------------------------------------------------------------
 
-## 2022/02/14
+## 2022/02/14 [OFFLINE]
 
 ### [The Coala](https://github.com/urous3814/TheCoala_Dev/tree/main/02/14)
 
@@ -85,7 +85,7 @@
   
  ---
 
-## 2022/02/15
+## 2022/02/15 [OFFLINE]
 
 ### [The Coala](https://github.com/urous3814/TheCoala_Dev/tree/main/02/15)
 
@@ -119,9 +119,9 @@
   
 ---
 
-## 2022/02/21
+## 2022/02/21 [ONLINE]
 
-### [The Coala](프로젝트 레포 링크)
+### [The Coala](https://github.com/urous3814/TheCoala_Dev/tree/main/02/21)
 
 #### 프로그램명
   
