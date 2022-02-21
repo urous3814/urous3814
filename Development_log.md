@@ -128,6 +128,8 @@
   * 모든 API 사용부 Try Catch로 변경(API)
     * 정답처리 부분 Try Catch처리
       * 정답처리시 먼저 id_Scheck 보내놓고 처리
+        * 기능 구현 완료, 테스트 필요
+  * Server FormClose시 학생 DB에서 Logout처리 안됨.
 
 #### 회의
   
