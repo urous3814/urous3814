@@ -1,3 +1,5 @@
+이곳에는 내가 한 개발만을 적는다
+ 
  # 목차
 
  [2월](https://github.com/urous3814/urous3814/blob/main/Development_log.md#2022%EB%85%84-2%EC%9B%94)   
@@ -10,7 +12,7 @@
   
 ---
 
-## 날짜
+## 날짜 [개발 ]
 
 ### [프로젝트명](프로젝트 레포 링크)
 
@@ -154,4 +156,42 @@
  
 </div>
 </details>
+
+
+<details>
+<summary>양식</summary>
+<div markdown="1">
+  
+---
+
+## 2022/02/24 [ONLINE]
+
+### [The Coala](https://github.com/urous3814/TheCoala_Dev/tree/main/02/24)
+
+#### Coala Windows Server
+  
+  * 디자인 변경
+    * 추가점수 메뉴 디자인 변경
+      * 오타, 에러 및 각종 이슈또한 해결
+    * 학생정보 Form 수정
+    * 메인 Form 코드뷰어 부분 디자인 변경
+
+#### Coala Windows Client
+  
+  * 디자인 변경
+    * Login Form 디자인 변경
+      * Teacher Selection 구역 구조 변경
+      *SonLab 로고 추가
+    * 다크모드 추가
+      * CodeEditon 부분의 다크모드 기능 추가
+        * PopupMenu에 다크모드 ON/OFF 기능 추가
+        * 다크모드용 Syntax Highlighter 구현(c,c++ / python)
+  
+---
+ 
+</div>
+</details>
+
+
+
 
