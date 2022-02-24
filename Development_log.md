@@ -159,7 +159,7 @@
 
 
 <details>
-<summary>양식</summary>
+<summary>2022/02/24</summary>
 <div markdown="1">
   
 ---
@@ -173,8 +173,9 @@
   * 디자인 변경
     * 추가점수 메뉴 디자인 변경
       * 오타, 에러 및 각종 이슈또한 해결
-    * 학생정보 Form 수정
-    * 메인 Form 코드뷰어 부분 디자인 변경
+    * Student Info Form 수정
+    * Main Form 코드뷰어 구조 변경
+  * 변수 통합 및 정리 진행
 
 #### Coala Windows Client
   
@@ -186,7 +187,11 @@
       * CodeEditon 부분의 다크모드 기능 추가
         * PopupMenu에 다크모드 ON/OFF 기능 추가
         * 다크모드용 Syntax Highlighter 구현(c,c++ / python)
-  
+  * Main Form Close 시 DB_Logout 기능 제거(서버로 이전)
+  * ListBox2 의 보여지는 student info 변경(Name)
+  * Code 채점 시 그다음 Problem 주는 기능 수정
+    * P_num 기준 문제제공에서 DB 기준으로 변경
+  * 재접속 기능 보완
 ---
  
 </div>
