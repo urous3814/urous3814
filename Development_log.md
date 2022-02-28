@@ -202,9 +202,9 @@
   
 ---
 
-## 2022/02/28 [개발 ]
+## 2022/02/28 [OFFLINE]
 
-### [The Coala](프로젝트 레포 링크)
+### [The Coala](https://github.com/urous3814/TheCoala_Dev/tree/main/02/28)
 
 #### The Coala Client
   
