@@ -1,5 +1,3 @@
-이곳에는 내가 한 개발만을 적는다
- 
  # 목차
 
  [2월](https://github.com/urous3814/urous3814/blob/main/Development_log.md#2022%EB%85%84-2%EC%9B%94)   
@@ -212,7 +210,11 @@
   
   * Offline Compile 기능 구현
     * C++빌더의 컴파일러 사용
-      * 테스트 중(프로그래밍 시 값이 않나옴)
+    * On/Offline Compiler 전환기능 제작(내정보)
+#### The Coala Downloader
+  * 경로오류 수정
+  * BCC 기능설치 추가
+  * 최적화
 
 #### The Coala Meeting
   
