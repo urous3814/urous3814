@@ -214,7 +214,7 @@
     * 하위 변경사항
       * 하위 변경사항 설명
 
-#### <span style="color:yellow">The Coala Meeting</span>
+#### <span style="color:yellow"> The Coala Meeting </span>
   
   * A팀 회의
     * 컴파일 방법 수정
