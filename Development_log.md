@@ -241,13 +241,11 @@
       * Form2의 FormClose Event를 Form1의 FormClose 이벤트에 넣어주기(완료)(테스트 필요)
     * 문제전송 과정 변경
       * 현재는 DB의 Processing에서 문제전송을 함
-        * Redis가 DB에서 문제번호를 검색해 문제를 직접 API로 보내주게 하기
-    
- 
-    * ToDo
+        * Redis가 DB에서 문제번호를 검색해 꺼내서 문제를 직접 API로 보내주게 하기
+    * [ToDo]
       * 개발시 필요한 정보들 정리해놓기(std = Student 등)
-    * CoalaDownloader을 인증하는 방법 알아보기
-      * 백신에서 막히는 경우를 예방하기 위해
+      * CoalaDownloader을 인증하는 방법 알아보기
+        * 백신에서 막히는 경우를 예방하기 위해
   
 ---
  
