@@ -16,13 +16,13 @@
 
 ### [프로젝트명](프로젝트 레포 링크)
 
-#### <span style="color:yellow">프로그램명</span>
+#### 프로그램명
   
   * 주요변경사항(보충설명)
     * 하위 변경사항
       * 하위 변경사항 설명
 
-#### <span style="color:yellow">회의</span>
+#### 회의
   
   * 활동명
     * 주요 내용
@@ -208,21 +208,26 @@
 
 ### [The Coala](프로젝트 레포 링크)
 
-#### <span style="color:yellow">프로그램명</span>
+#### 프로그램명
   
   * 주요변경사항(보충설명)
     * 하위 변경사항
       * 하위 변경사항 설명
 
-#### <span style="color:yellow"> The Coala Meeting </span>
+#### The Coala Meeting
   
   * A팀 회의
     * 컴파일 방법 수정
-      * Offline Compiler 기본으로 사용하고 문제 생길시 교사가 Online Compiler 기능 사용권한 주게하기
+      * Offline Compiler 기본으로 사용하고 문제 생길시 교사가 Online Compiler 기능 사용권한 주게하기(비상용으로)
     * 코드전송 프로세스 수정 (너무 많은 자원 쓸데없이 사용)
       * 제출시 코드를 DB로 보낸후 가져오는것이 아니라 Redis를 통해 보내고 그것을 받아와 정답처리시에만 DB에 저장하게 하기
         * Redis 용량제한 확인해보기
         *현재 제출코드 주석처리해놓음
+        *학생이 제출시에는 DB에 저장 안되게 하기
+    * 정답처리 프로세스 수정
+      * 오답, 재시도, 피드백은 Redis만으로 가게(DB사용 X)
+      * 정답은 DB에 기록되게
+      * 모든 정답처리 시 Redis로 가기는 하지만 DB 기록은 정답시에만 하게
     * ~~DB기준이 아니라 Redis 로그인 상태를 통해서 로그인을 확인하는 방향으로 진행(Redis와 DB가 따로놈)~~ (보류)
       * Redis가 DB에 로그인상태 기록하고 그 후에 서버에서 그것을 확인해 로그인
     * 디자인 변경 (Client)
@@ -234,6 +239,9 @@
           * fill으로 초기화하기(보류)
     * Client의 Form1이 꺼질때도 DB에서 Logout 처리되게 하기
       * Form2의 FormClose Event를 Form1의 FormClose 이벤트에 넣어주기(완료)(테스트 필요)
+    * 문제전송 과정 변경
+      * 현재는 DB의 Processing에서 문제전송을 함
+        * Redis가 DB에서 문제번호를 검색해 문제를 직접 API로 보내주게 하기
     
  
     * ToDo
