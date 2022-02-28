@@ -16,13 +16,13 @@
 
 ### [프로젝트명](프로젝트 레포 링크)
 
-#### 프로그램명
+#### <span style="color:yellow">프로그램명</span>
   
   * 주요변경사항(보충설명)
     * 하위 변경사항
       * 하위 변경사항 설명
 
-#### 회의
+#### <span style="color:yellow">회의</span>
   
   * 활동명
     * 주요 내용
@@ -208,13 +208,13 @@
 
 ### [The Coala](프로젝트 레포 링크)
 
-#### 프로그램명
+#### <span style="color:yellow">프로그램명</span>
   
   * 주요변경사항(보충설명)
     * 하위 변경사항
       * 하위 변경사항 설명
 
-#### The Coala Meeting
+#### <span style="color:yellow">The Coala Meeting</span>
   
   * A팀 회의
     * 컴파일 방법 수정
