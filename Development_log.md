@@ -254,6 +254,29 @@
 </div>
 </details>
 
+<details>
+<summary>2022/03/03</summary>
+<div markdown="1">
+  
+---
 
+## 2022/03/04 [OFFLINE]
+
+### [The Coala](https://github.com/urous3814/TheCoala_Dev/tree/main/0303)
+
+#### The Coala Client
+  
+  * 컴파일 관련 오류(offline compiler)
+    * 컴파일 경로 변경
+      * Temp에서 C:/Coala로 변경
+    * 컴파일러 결함 보완
+      * String 을 include 하는 내용 자동 추가하게 변경
+  * DB 과부화 관련 수정
+    * DB 접근 줄이고 api 로 기능 대체작업
+  
+---
+ 
+</div>
+</details>
 
 
