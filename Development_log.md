@@ -1,6 +1,7 @@
  # 목차
 
  [2월](https://github.com/urous3814/urous3814/blob/main/Development_log.md#2022%EB%85%84-2%EC%9B%94)   
+ [3월](https://github.com/urous3814/urous3814/blob/main/Development_log.md#2022%EB%85%84-3%EC%9B%94)
   
 ---
 
@@ -10,7 +11,7 @@
   
 ---
 
-## 날짜 [개발 ]
+## 날짜 [개발 Location]
 
 ### [프로젝트명](프로젝트 레포 링크)
 
@@ -250,6 +251,9 @@
         * 백신에서 막히는 경우를 예방하기 위해
   
 ---
+ 
+ 
+ # 2022년 2월
  
 </div>
 </details>
