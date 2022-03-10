@@ -267,7 +267,7 @@
 
 ## 2022/03/04 [OFFLINE]
 
-### [The Coala](https://github.com/urous3814/TheCoala_Dev/tree/main/0303)
+### [The Coala](https://github.com/urous3814/TheCoala_Dev/tree/main/03/03)
 
 #### The Coala Client
   
@@ -293,7 +293,7 @@
 
 ## 2022/03/10 [Online]
 
-### [The Coala](https://github.com/urous3814/TheCoala_Dev/tree/main/0310)
+### [The Coala](https://github.com/urous3814/TheCoala_Dev/tree/main/03/10)
 
 #### Coala_Downloader
   
@@ -302,7 +302,9 @@
 
 #### The Coala Client
   
-  * 자동 업데이트 기능 추가
+  * 자동 업데이트 기능 추가(Powershell 사용)
+  * 컴파일 모드(온라인, 오프라인) 시각적 차이 구현
+  * 티어별 아이콘 제작(미완)
   
 
 #### 회의
