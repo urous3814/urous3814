@@ -325,3 +325,41 @@
 </div>
 </details>
 
+<details>
+<summary>2022/03/17</summary>
+<div markdown="1">
+  
+---
+
+## 2022/03/17 [OFFLINE]
+
+### [The Coala](https://github.com/urous3814/TheCoala_Dev/tree/main/03/17)
+
+#### The Coala Client
+  
+  * 중복실행 방지기능 추가(CMD활용)
+    * 컴파일된 파일명 통일
+    * 중복실행시 기존에 켜져있던 프로그램 꺼지게하는 기능 추가
+  * 코알라 메신저 서비스 구현
+    * API를 사용한 메세지 전송 기능을 구현
+  
+ 
+ #### The Coala Client
+   * 코알라 서버 다운로더 제작
+   * 코알라 메신저 서비스 구현
+     * API를 사용한 메세지 전송 기능을 구현
+ 
+  
+ #### 회의
+  
+  * 활동명
+    * 주요 내용
+      * 결과 및 보충내용
+ 
+ ### [Physics Tracker](공백)
+
+  
+---
+ 
+</div>
+</details>
