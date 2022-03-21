@@ -349,14 +349,53 @@
    * 코알라 메신저 서비스 구현
      * API를 사용한 메세지 전송 기능을 구현
  
+ #### Coala_Downloader
   
- #### 회의
-  
-  * 활동명
-    * 주요 내용
-      * 결과 및 보충내용
+  * Server Downloader 제작
+  * Downloader 기능 추가
+    * Remover Program, Auto-Update 기능 구현
+    * API 안되는 이슈 해결
  
- ### [Physics Tracker](공백)
+ ### [Physics Tracker](https://github.com/urous3814/dev/tree/main/Physics_Project)
+ 
+ #### Python Tracker
+   * Object Tracking 기능 구현
+
+  
+---
+ 
+</div>
+</details>
+
+<details>
+<summary>2022/03/21</summary>
+<div markdown="1">
+  
+---
+
+## 2022/03/21 [OFFLINE]
+
+### [Physics Tracker](https://github.com/urous3814/dev/tree/main/Physics_Project)
+
+#### Python Tracker
+  
+  * DB insert sql문 추가(보충설명)
+    * Exp_Name, SECOND, Obj_x, Obj_y 등의 정보를 Mysql 서버의 DB에 저장
+      * 하위 변경사항 설명
+ 
+ #### Mysql Server
+  * Mysql Server 구현
+    * study_db(DB) / experiment(TABLE) 제작
+DB Schema
+|Field|Type|Null|
+|------|---|---|
+|Exp_Name|varchar(32)|No|
+|Obj_X|float|No|
+|Obj_Y|float|No|
+|Obj_V|float|Yes|
+|Obj_A|float|Yes|
+|Obj_SETA|float|Yes|
+|SECOND|float|No|
 
   
 ---
