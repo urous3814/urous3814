@@ -386,7 +386,9 @@
  #### Mysql Server
   * Mysql Server 구현
     * study_db(DB) / experiment(TABLE) 제작
+ 
 DB Schema
+ 
 |Field|Type|Null|
 |------|---|---|
 |Exp_Name|varchar(32)|No|
