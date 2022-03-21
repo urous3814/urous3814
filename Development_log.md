@@ -378,12 +378,12 @@
 ### [Physics Tracker](https://github.com/urous3814/dev/tree/main/Physics_Project)
 
 #### Python Tracker
-  
-  * DB insert sql문 추가(보충설명)
+  * DB insert SQL문 추가(보충설명)
     * Exp_Name, SECOND, Obj_x, Obj_y 등의 정보를 Mysql 서버의 DB에 저장
       * 하위 변경사항 설명
+  * **기능 완성**
  
- #### Mysql Server
+ #### MySQL Server
   * Mysql Server 구현
     * study_db(DB) / experiment(TABLE) 제작
  
