@@ -387,7 +387,7 @@
   * Mysql Server 구현
     * study_db(DB) / experiment(TABLE) 제작
  
-DB Schema
+##### DB Schema
  
 |Field|Type|Null|
 |------|---|---|
