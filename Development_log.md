@@ -404,3 +404,33 @@
  
 </div>
 </details>
+
+<details>
+<summary>2022/03/31</summary>
+<div markdown="1">
+  
+---
+
+## 2022/03/31 [OFFLINE]
+
+### [The Coala](https://github.com/urous3814/TheCoala_Dev/tree/main/03/31)
+
+#### The Coala Client
+  
+  * 자동업데이트 기능 추가
+    * API 버젼확인 기능 추가
+  * 같은 ID의 유저가 접속시 코드 초기화 막는 기능 추가
+  * API대부분 완성
+  * 시험기능 보완(API, 구조)
+  *High-DPI 호환 기능 추가
+ 
+#### [The Coala Downloader](https://github.com/urous3814/TheCoala_Dev/tree/main/Downloader/0331)
+  
+  * 자동업데이트 기능 추가
+  * High-DPI 레지스트 자동입력 기능 추가
+  * 코알라 flowchart 앱 설치기능 추가
+  
+---
+ 
+</div>
+</details>
