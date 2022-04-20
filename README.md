@@ -12,6 +12,14 @@
   ### :wrench: Tools :wrench:
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)   ![PyCharm](https://img.shields.io/badge/pycharm-008000?style=for-the-badge&logo=pycharm&logoColor=black&color=green&labelColor=green)   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)   ![Rad Studio](https://img.shields.io/badge/Rad%20Studio-ED1F35.svg?style=for-the-badge&logo=Embarcadero&logoColor=white)
+  
+### :blue_book: To Study :blue_book:
+  
+  ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Node.JS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+  ![Apatch tomcat](https://img.shields.io/badge/apache%20tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white)
+  ![Java Script](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
   ### :clipboard: Docs :clipboard:
 
