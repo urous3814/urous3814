@@ -11,7 +11,7 @@
   
   ### :wrench: Tools :wrench:
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)   ![Rad Studio](https://img.shields.io/badge/Rad%20Studio-ED1F35.svg?style=for-the-badge&logo=Embarcadero&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)   ![PyCharm](https://img.shields.io/badge/pycharm-0080000?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)   ![Rad Studio](https://img.shields.io/badge/Rad%20Studio-ED1F35.svg?style=for-the-badge&logo=Embarcadero&logoColor=white)
 
   ### :clipboard: Docs :clipboard:
 
