@@ -14,8 +14,7 @@
   ### :clipboard: Docs :clipboard:
   
 개발일지: [일지](https://github.com/urous3814/urous3814/blob/main/Development_log.md)
-![일지](https://img.shields.io/badge/개발일지-%21759B.svg?style=for-the-badge&logo=&logoColor=white)
-  #
+![일지](https://img.shields.io/badge/개발일지-%21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 [![Urous3814's github stats](https://github-readme-stats.vercel.app/api?username=urous3814&hide=stars,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
