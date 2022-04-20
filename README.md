@@ -8,4 +8,4 @@ UROUS3814
 
 [![Urous3814's github stats](https://github-readme-stats.vercel.app/api?username=urous3814&hide=stars,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urous3814&hide=Jupyter Notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urous3814&hide=JupyterNotebook)](https://github.com/anuraghazra/github-readme-stats)
