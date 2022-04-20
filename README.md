@@ -6,6 +6,6 @@ UROUS3814
   >
   > Contact : urous3814@thecoala.io
 
-[![Urous3814's github stats](https://github-readme-stats.vercel.app/api?username=urous3814&hide=stars,prs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Urous3814's github stats](https://github-readme-stats.vercel.app/api?username=urous3814&hide=stars,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urous3814&hide=jupyternotebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urous3814&hide=Jupyter Notebook)](https://github.com/anuraghazra/github-readme-stats)
