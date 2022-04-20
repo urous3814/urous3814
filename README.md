@@ -30,6 +30,14 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
   ![Rad Studio](https://img.shields.io/badge/Rad%20Studio-ED1F35.svg?style=for-the-badge&logo=Embarcadero&logoColor=white)
   
+  
+  
+  ### :clipboard: Docs :clipboard:
+
+  [![일지](https://img.shields.io/badge/개발일지-%21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/urous3814/urous3814/blob/main/Development_log.md)
+  [![동아리](https://img.shields.io/badge/동아리-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/Buram-Highschool-learning-JAVA/)
+  
+  
 ### :blue_book: To Study :blue_book:
   
   ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -38,10 +46,6 @@
   ![Apatch tomcat](https://img.shields.io/badge/apache%20tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
   ![Java Script](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-  ### :clipboard: Docs :clipboard:
-
-  [![일지](https://img.shields.io/badge/개발일지-%21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/urous3814/urous3814/blob/main/Development_log.md)
-  [![동아리](https://img.shields.io/badge/동아리-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/Buram-Highschool-learning-JAVA/)
 
 [![Urous3814's github stats](https://github-readme-stats.vercel.app/api?username=urous3814&hide=stars,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
