@@ -53,6 +53,7 @@
 [![Urous3814's github stats](https://github-readme-stats.vercel.app/api?username=urous3814&hide=stars,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
+  [만든 프로그램 다운로드(김지훈 자소서)](https://github.com/urous3814/-/blob/main/Readme.md)
 
 
 <div align=center>
