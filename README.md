@@ -37,8 +37,7 @@
   
   
   ### :clipboard: Docs :clipboard:
-
-  [![일지](https://img.shields.io/badge/개발일지-%21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/urous3814/urous3814/blob/main/Development_log.md)
+  
   [![동아리](https://img.shields.io/badge/동아리-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/Buram-Highschool-learning-JAVA/)
   [![프로젝트](https://img.shields.io/badge/프로젝트-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)]()
   
