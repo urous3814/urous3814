@@ -38,7 +38,7 @@
   
   ### :clipboard: Docs :clipboard:
   
-  [![고등학교 동아리](https://img.shields.io/badge/고등학교 동아리-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/Buram-Highschool-learning-JAVA/)
+  [![고등학교 동아리](https://img.shields.io/badge/고등학교동아리-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/Buram-Highschool-learning-JAVA/)
   [![프로젝트](https://img.shields.io/badge/프로젝트-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)]()
   
 ### :blue_book: To Study :blue_book:
