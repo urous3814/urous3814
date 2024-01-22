@@ -52,7 +52,9 @@
   ![Apatch tomcat](https://img.shields.io/badge/apache%20tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 
 
-[![Urous3814's github stats](https://github-readme-stats.vercel.app/api?username=urous3814&hide=stars,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Urous3814's github stats](https://github-readme-stats.vercel.app/api?username=urous3814&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Urous3814's GitHub stats](https://github-readme-stats.vercel.app/api?username=urous3814)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=urous3814)](https://solved.ac/urous3814)
