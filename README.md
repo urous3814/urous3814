@@ -43,7 +43,7 @@
   
   [![고등학교 동아리](https://img.shields.io/badge/고등학교동아리-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/Buram-Highschool-learning-JAVA/)
   [![프로젝트](https://img.shields.io/badge/프로젝트-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/urous3814/dev)
-  [![대학교](https://img.shields.io/badge/대학교-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/urous3814/University)   
+  [![대학교](https://img.shields.io/badge/대학교-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/urous3814/University) 
   [![한성메트로](https://img.shields.io/badge/한성메트로-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/HansungMetro)
   
 ### :blue_book: To Study :blue_book:
