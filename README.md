@@ -45,8 +45,7 @@
   [![프로젝트](https://img.shields.io/badge/프로젝트-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/urous3814/dev)
   [![대학교](https://img.shields.io/badge/대학교-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/urous3814/University) 
   [![한성메트로](https://img.shields.io/badge/한성메트로-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/HansungMetro)
-  [![JUST RPG](tps://img.shields.io/badge/JUST%20RPG-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)]([https://github.com/HansungMetro](https://github.com/urous3814/JUST-RPG))
-  https://github.com/urous3814/JUST-RPG
+  [![JUST RPG](https://img.shields.io/badge/JUST%20RPG-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)]([https://github.com/HansungMetro](https://github.com/urous3814/JUST-RPG)
   
 ### :blue_book: To Study :blue_book:
   
