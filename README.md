@@ -48,12 +48,18 @@
   [![JUST RPG](https://img.shields.io/badge/JUST%20RPG-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/urous3814/JUST-RPG)
   
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div style="display: flex;">
+    <div style="flex: 1;">
+        <a href="https://solved.ac/urous3814">
+            <img height="200" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=urous3814" />
+        </a>
+    </div>
+    <div style="flex: 1;">
+        <a href="https://github.com/UROUS3814">
+            <img height="200" src="https://github-readme-stats.vercel.app/api?username=UROUS3814&count_private=true&hides=stars,prs&show_icons=true" />
+        </a>
+    </div>
+</div>
 
 
 
