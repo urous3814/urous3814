@@ -48,7 +48,7 @@
   [![JUST RPG](https://img.shields.io/badge/JUST%20RPG-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/urous3814/JUST-RPG)
   
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around; margin-bottom: 10px;">
     <a href="https://solved.ac/urous3814" style="flex: 1;">
         <img height="170" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=urous3814" />
     </a>
