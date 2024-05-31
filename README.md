@@ -51,12 +51,12 @@
 <div style="display: flex;">
     <div style="flex: 1;">
         <a href="https://solved.ac/urous3814">
-            <img height="200" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=urous3814" />
+            <img height="150" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=urous3814" />
         </a>
     </div>
     <div style="flex: 1;">
         <a href="https://github.com/UROUS3814">
-            <img height="200" src="https://github-readme-stats.vercel.app/api?username=UROUS3814&count_private=true&hides=stars,prs&show_icons=true" />
+            <img height="150" src="https://github-readme-stats.vercel.app/api?username=UROUS3814&count_private=true&hides=stars,prs&show_icons=true" />
         </a>
     </div>
 </div>
