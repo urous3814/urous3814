@@ -47,12 +47,14 @@
   [![한성메트로](https://img.shields.io/badge/한성메트로-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/HansungMetro)
   [![JUST RPG](https://img.shields.io/badge/JUST%20RPG-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/urous3814/JUST-RPG)
   
-### :blue_book: To Study :blue_book:
-  
-  ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-| [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=urous3814)](https://solved.ac/urous3814) | [![Urous3814's github stats](https://github-readme-stats.vercel.app/api?username=UROUS3814&count_private=true&hides=stars,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) |
-|---|---|
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 
 
 
