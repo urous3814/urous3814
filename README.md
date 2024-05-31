@@ -48,18 +48,15 @@
   [![JUST RPG](https://img.shields.io/badge/JUST%20RPG-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/urous3814/JUST-RPG)
   
 
-<div style="display: flex;">
-    <div style="flex: 1;">
-        <a href="https://solved.ac/urous3814">
-            <img height="150" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=urous3814" />
-        </a>
-    </div>
-    <div style="flex: 1;">
-        <a href="https://github.com/UROUS3814">
-            <img height="150" src="https://github-readme-stats.vercel.app/api?username=UROUS3814&count_private=true&hides=stars,prs&show_icons=true" />
-        </a>
-    </div>
+<div style="display: flex; justify-content: space-around;">
+    <a href="https://solved.ac/urous3814" style="flex: 1;">
+        <img height="170" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=urous3814" />
+    </a>
+    <a href="https://github.com/UROUS3814" style="flex: 1;">
+        <img height="170" src="https://github-readme-stats.vercel.app/api?username=UROUS3814&count_private=true&hides=stars,prs&show_icons=true" />
+    </a>
 </div>
+
 
 
 
