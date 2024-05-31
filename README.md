@@ -51,8 +51,7 @@
   
   ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=urous3814)](https://solved.ac/urous3814)  
-[![Urous3814's github stats](https://github-readme-stats.vercel.app/api?username=UROUS3814&count_private=true&hides=stars,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=urous3814" height="200">](https://solved.ac/urous3814) [<img src="https://github-readme-stats.vercel.app/api?username=UROUS3814&count_private=true&hides=stars,prs&show_icons=true" height="200">](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=urous3814&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
