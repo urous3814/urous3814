@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&height=250&fontsize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome!&color=auto&section=header&height=250&fontsize=70)
 
 ### :book: Skills :book: 
   
