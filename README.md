@@ -77,7 +77,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=urous3814&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=urous3814&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <div align=center>
