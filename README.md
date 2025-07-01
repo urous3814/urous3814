@@ -52,7 +52,6 @@
 ### :clipboard: Projects :clipboard:
 
 [![고등학교 동아리](https://img.shields.io/badge/고등학교동아리-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/Buram-Highschool-learning-JAVA/)
-[![대학교](https://img.shields.io/badge/대학교-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/urous3814/University) 
 [![한성메트로](https://img.shields.io/badge/한성메트로-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/HansungMetro)
 [![JUST RPG](https://img.shields.io/badge/JUST%20RPG-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/urous3814/JUST-RPG)
 [![Routiner](https://img.shields.io/badge/Routiner-%356783.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://github.com/RoutinerAI)
