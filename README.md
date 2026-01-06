@@ -21,26 +21,3 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-008000?style=for-the-badge&logo=pycharm&logoColor=black&color=green&labelColor=green) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Rad Studio](https://img.shields.io/badge/Rad%20Studio-ED1F35.svg?style=for-the-badge&logo=Embarcadero&logoColor=white)
-
-
-
-
-    
-
-<div style="display: flex; justify-content: space-around; margin: 30;">
-    <a href="https://solved.ac/urous3814" style="flex: 1;">
-        <img height="170" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=urous3814" />
-    </a>
-    <a href="https://github.com/UROUS3814" style="flex: 1;">
-        <img height="170" src="https://github-readme-stats.vercel.app/api?username=UROUS3814&count_private=true&hides=stars,prs&show_icons=true" />
-    </a>
-</div>
-
-
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=urous3814&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<div align=center>
